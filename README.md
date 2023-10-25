@@ -53,7 +53,7 @@ Supongamos que una clienta nos pide desarrollar un sistema que permita ordenar l
 
 Luego de entrevistarla, sacamos en limpio que lo que ella necesita YA, es organizar los datos de sus empledas en un solo lugar, y además tener bien en claro la especialidad de cada empleda.
 
-Cada empleada debe tener la siguiente información asociada: nombre, servicio en la que es especialista, fecha en la que comenzó a trabajar y su número de celular. Los servicios que el local ofrece son: semi permanente simple, semi permanente con diseño, capping, uñas en gel, uñas en gel con diseño.
+Cada empleada debe tener la siguiente información asociada: nombre, servicio en la que es especialista, fecha en la que comenzó a trabajar y su número de celular. Los servicios que el local ofrece son: semi permanente color liso, semi permanente con diseño, kapping gel color liso, kapping gel con diseño, soft gel color liso y soft gel con diseño. 
 
 #### Diagrama Entidad-Relación | Entity-Relationship Diagram (ERD)
 
