@@ -41,7 +41,7 @@ En 1989, Microsoft lanza su respuesta a Oracle llamada SQL Server, un sistema de
 
 En 1995, en el contexto de los años de la explosión de la web, del open source, del desarrollo de sistemas de gestores de base de datos open source, aparece MySQL: un RDBMS que se integra muy bien con PHP. Y como PHP era el lenguaje más importante de la web, MySQL será la base de datos más importante en el mundo web, fácil para comenzar, con una curva de aprendizaje sencilla y, además, muy rápida en sus consultas. No requiere configurar demasiadas cosas.
 
-En 1996, aparece PostgreSQL, el sistema gestor de base de datos que cumple con varios estándares y trae procedimientos almacenados, trigger, funciones y cosas que MySQL no tenía. Además, está inspirado en Oracle, por lo tanto, es bastante sencillo migrar base de datos de PostgreSQL a Oracle. Eso hace que sea una base de datos más poderosa y repito, preferida por quienes buscan más consistencia en los datos. Si quieres aprender PostgreSQL, tenemos un curso en EDteam, que te enseña desde cero, hasta crear tu primer proyecto.
+En 1996, aparece PostgreSQL, el sistema gestor de base de datos que cumple con varios estándares y trae procedimientos almacenados, trigger, funciones y cosas que MySQL no tenía. Además, está inspirado en Oracle, por lo tanto, es bastante sencillo migrar base de datos de PostgreSQL a Oracle. Eso hace que sea una base de datos más poderosa y repito, preferida por quienes buscan más consistencia en los datos.
 
 En los años 2000, la década de las redes sociales, de los buscadores y de los smartphones, aparecen dos bases de datos importantes. La primera es SQLite, un RDBMS más ligero y más pequeño, para usos tal vez más específicos. Además, tiene una gran peculiaridad y es que no usa la arquitectura del cliente-servidor, sino que guarda los datos en archivos, que están dentro del mismo programa. Es un paradigma diferente. Entonces, es base de datos en archivos. El uso más común de SQLite, son las aplicaciones móviles, particularmente en los casos en los que es necesario guardar información en el teléfono. Ya sea para trabajar en modo offline o guardar alguna información importante que necesites para que la aplicación funcione.
 
@@ -79,3 +79,4 @@ Las tablas que vamos a generar nos van a quedar más o menos así:
 -   [Black Mirror: Nosedive](https://www.youtube.com/watch?v=EcspUD0kF7g)
 -   [Cómo los algoritmos configuran nuestro mundo](https://www.youtube.com/watch?v=sLd-SxE7__8)
 -   [Big Data](https://www.forbesargentina.com/innovacion/el-negocio-datos-consiste-famoso-big-data-n13621)
+-   [BASES DE DATOS](https://ed.team/blog/que-son-las-bases-de-datos)
